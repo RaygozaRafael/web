@@ -1,0 +1,7 @@
+Este es un documento de texto
+	El cual contiene los chismes mas actuales
+    Mas desafortunadamente
+Fuimos cancelados por lo que no hay chismes
+El ultimo chisme del momento es que no se usar echo para
+	agregar lineas de texto en los archivos
+	por html
