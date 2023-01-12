@@ -1,6 +1,6 @@
 console.log("Sesión js02");
 
-
+/* 
 function multiplica(a,b){
     return a*b;
 }
@@ -17,3 +17,18 @@ function factorialConCiclo(a){
 
 
 console.log("factorial " + factorialConCiclo(5));
+
+ */
+
+function saludo(a){
+    
+    if (a > 0){
+        saludo(a-1)
+        return console.log("Saludo "+ a);
+    }
+    else{
+        return 1;
+    }
+}
+
+saludo(10);
